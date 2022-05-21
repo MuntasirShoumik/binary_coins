@@ -4,7 +4,5 @@ Flutter project.
 
 ## Screenshots
 
-![](images/Screenshot_1.jpg)
-
-<img src ="images/Screenshot_1.jpg" width = 600 height = 400>
+<img src ="images/Screenshot_1.jpg" width = 600 height = 800>
 
