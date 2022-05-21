@@ -1,6 +1,7 @@
 # binary_coin
 
 Flutter project.
+it can show current crypto exchange rates in various currency’s
 
 ## Screenshots
 
