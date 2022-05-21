@@ -1,8 +1,10 @@
 # binary_coin
 
-A new Flutter project.
+Flutter project.
 
-## Getting Started
+## Screenshots
+
+![](images/Screenshot_1.jpg)
 
 This project is a starting point for a Flutter application.
 
